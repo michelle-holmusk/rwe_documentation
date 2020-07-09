@@ -1,0 +1,7 @@
+rwe\_documentation module
+=========================
+
+.. automodule:: rwe_documentation
+   :members:
+   :undoc-members:
+   :show-inheritance:
